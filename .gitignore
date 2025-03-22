@@ -31,4 +31,14 @@
 *.out
 *.app
 
+# Board
 *_backup/*
+
+# Tools.
+/tools/*
+/tools-src/*
+.build/*
+
+# Editor
+tags
+
