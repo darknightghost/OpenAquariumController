@@ -31,3 +31,5 @@ export PATH="${TOOLS_DIR}/bin:${TOOLS_DIR}/usr/bin:${TOOLS_DIR}/usr/local/bin:${
 export LD_LIBRARY_PATH="${TOOLS_DIR}/lib:${TOOLS_DIR}/usr/lib:${TOOLS_DIR}/usr/local/lib:${LD_LIBRARY_PATH}"
 
 alias sudo="call_sudo"
+
+echo "--------------------------- Tools ready. -------------------------------"
